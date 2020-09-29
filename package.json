@@ -1,0 +1,37 @@
+{
+  "name": "vue2-leaflet-semicircle",
+  "version": "1.0.0",
+  "description": "semicircle plugin extension for vue2-leaflet package",
+  "main": "dist/Vue2LeafletSemicircle.js",
+  "scripts": {
+    "build": "poi build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:OBrown92/vue2-leaflet-semicircle.git"
+  },
+  "keywords": [
+    "vue2",
+    "leaflet",
+    "semicircle"
+  ],
+  "author": "Leon Braun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OBrown92/vue2-leaflet-semicircle/issues"
+  },
+  "homepage": "https://github.com/OBrown92/vue2-leaflet-semicircle#readme",
+  "dependencies": {
+    "leaflet": "^1.5.1",
+    "leaflet-semicircle": "^2.0.4",
+    "vue2-leaflet": "^2.1.1"
+  },
+  "peerDependencies": {
+    "leaflet": "^1.5.1"
+  },
+  "devDependencies": {
+    "poi": "^10.2.10",
+    "vue-cli": "^2.8.1",
+    "webpack-node-externals": "^1.5.4"
+  }
+}
