@@ -63,3 +63,5 @@ MIT
 ## Changes
 
 * 1.0.0
+* 1.0.1 bump version
+* 1.0.2 add example
